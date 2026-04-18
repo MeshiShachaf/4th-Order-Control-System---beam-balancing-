@@ -1,9 +1,8 @@
-# Project Description
+# 4th Order Control System - Beam Balancing
 
-This project is a 4th Order Control System for beam balancing.
+Compilation of files for a 4th order nested control system for balancing a ball on a beam at specified positions. PID controller is the primary implemented control law.
 
-# Authors
+## Authors
 
 - Meshi Shachaf
-
-Change log: Updated README to remove contents section and file descriptions.
+- Daniel E. Licht (lichtphyz@gmail.com)
